@@ -1,2 +1,1 @@
-public class file1 {
-}
+//This is an empty file..
